@@ -58,7 +58,7 @@ Those files operate synchronously (running the lines of code in turn from top to
     from google.colab import drive
     drive.mount('/content/drive')
     ```
-- Changing raw_path string into your dataset folder path. For example, my raw_path is '/content/drive/MyDrive/Tài liệu UPDRIVE/Data/' so I put it into raw_path variable and let the code below it to import all the csv files.
+- Changing raw_path string into your dataset folder path. For example, my folder path is '/content/drive/MyDrive/Tài liệu UPDRIVE/Data/' so I put it into raw_path variable and let the code below it to import all the csv files.
 
     ```python
     raw_path = '/content/drive/MyDrive/Tài liệu UPDRIVE/Data/'
@@ -76,7 +76,7 @@ Those files operate synchronously (running the lines of code in turn from top to
     ```python
     df_olist_clean.to_csv(raw_path + 'data_outlist_clean.csv', index = False, date_format = '%Y-%m-%d')
     ```
-  make sure to download it because we will use that file for EDA.ipynb file. 
+  make sure to download it because we will use data_outlist_clean.csv file for EDA.ipynb file. 
 
 **2/ EDA.ipynb:**
 
