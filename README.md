@@ -76,7 +76,7 @@ Those files operate synchronously (running the lines of code in turn from top to
     ```python
     df_olist_clean.to_csv(raw_path + 'data_outlist_clean.csv', index = False, date_format = '%Y-%m-%d')
     ```
-make sure to download it because we will use that file for EDA.ipynb file. 
+  make sure to download it because we will use that file for EDA.ipynb file. 
 
 **2/ EDA.ipynb:**
 
