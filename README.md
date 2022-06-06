@@ -16,7 +16,7 @@ Member:
 
 ### Data used:
 
-[Brazilian E-Commerce Public Dataset by Olist] (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 This is a Brazilian ecommerce public dataset of orders made at Olist Store. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers.
 
@@ -102,7 +102,7 @@ make sure to download it because we will use that file for EDA.ipynb file.
 *How to import and run code:*
 In this file, we imported and used data_outlist_clean.csv file for analysis. The steps included to import and run code is similar to the previous file, which is EDA.ipynb.
 
-### [Link Google Drive Source Code] (https://github.com/khoanguyn1411/OlistStoreDA-Python.git)
-### [Link GitHub Source Code (for better view of README.md)] (https://drive.google.com/drive/folders/1YIj5807YJTV78pPRjq6H-YduXWdWaJmz?usp=sharing) 
+### [Link Google Drive Source Code](https://github.com/khoanguyn1411/OlistStoreDA-Python.git)
+### [Link GitHub Source Code (for better view of README.md)](https://drive.google.com/drive/folders/1YIj5807YJTV78pPRjq6H-YduXWdWaJmz?usp=sharing) 
 
 # THE END - THANK YOU FOR YOUR READING
