@@ -87,12 +87,12 @@ Those files operate synchronously (running the lines of code in turn from top to
 
 *How to import and run code:* In this file, we imported and used data_outlist_clean.csv file for analysis. To import this file, make sure to put it on Google Drive and input its path into raw_path variable. The way to do it is similar to the previous file, which is DataPreprocessing.ipynb
 
-    ```python
-    from google.colab import drive
-    drive.mount('/content/drive')
-    raw_path = '/content/drive/MyDrive/Tài liệu UPDRIVE/Data/'
-    df = pd.read_csv(raw_path + 'data_outlist_clean.csv', parse_dates = ['order_purchase_timestamp'] )
-    ```
+```python
+from google.colab import drive
+drive.mount('/content/drive')
+raw_path = '/content/drive/MyDrive/Tài liệu UPDRIVE/Data/'
+df = pd.read_csv(raw_path + 'data_outlist_clean.csv', parse_dates = ['order_purchase_timestamp'] )
+```
 **3/ BuildingModel.ipynb:**
 
 *Things we did:*   
