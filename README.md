@@ -58,7 +58,7 @@ Those files operate synchronously (running the lines of code in turn from top to
     from google.colab import drive
     drive.mount('/content/drive')
     ```
-- Changing raw_path string into your dataset folder path. For example, my folder path is '/content/drive/MyDrive/Tài liệu UPDRIVE/Data/' so I put it into raw_path variable and let the code below it to import all the csv files.
+- Changing raw_path string into your dataset folder path. For example, my folder path is '/content/drive/MyDrive/Tài liệu UPDRIVE/Data/' so I put it into raw_path variable and let the code below it import all the csv files.
 
     ```python
     raw_path = '/content/drive/MyDrive/Tài liệu UPDRIVE/Data/'
