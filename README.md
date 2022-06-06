@@ -34,9 +34,9 @@ During project implementation, we separate our source code into 3 different file
 
 Those files operate synchronously (running the lines of code in turn from top to bottom) and in the following order: 
 
-    - 1: DataPreprocessing.ipynb
-    - 2: EDA.ipynb
-    - 3: BuildingModel.ipynb. 
+    1: DataPreprocessing.ipynb\
+    2: EDA.ipynb\
+    3: BuildingModel.ipynb. 
 
 ### Insight our code files:
 
