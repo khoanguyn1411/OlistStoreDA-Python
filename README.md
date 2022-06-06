@@ -3,7 +3,9 @@
 ## TOPIC: CUSTOMER SEGMENTATION BASED ON TRADITIONAL RFM, K-MEANS ALGORITHM AND GAUSSIAN: A CASE STUDY OF E-COMMERCE BRAZIL
 
 Lecturer: Nguyen Phat Dat, MA
+
 Group: Python
+
 Member: 
 
 | No. | Member                 | ID         | Role    | 
@@ -82,8 +84,7 @@ make sure to download it because we will use that file for EDA.ipynb file.
 - Importing dataset
 - Implementing exploratory data analysis for the dataset.
 
-*How to import and run code:*
-- In this file, we imported and used data_outlist_clean.csv file for analysis. To import this file, make sure to put it on Google Drive and input its path into raw_path variable. The way to do it is similar to the previous file, which is DataPreprocessing.ipynb
+*How to import and run code:* In this file, we imported and used data_outlist_clean.csv file for analysis. To import this file, make sure to put it on Google Drive and input its path into raw_path variable. The way to do it is similar to the previous file, which is DataPreprocessing.ipynb
 
     ```python
     from google.colab import drive
