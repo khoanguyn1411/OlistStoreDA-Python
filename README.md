@@ -33,9 +33,10 @@ This is real commercial data, it has been anonymised, and references to the comp
 During project implementation, we separate our source code into 3 different files, which are DataPreprocessing.ipynb, EDA.ipynb, BuildingModel.ipynb. 
 
 Those files operate synchronously (running the lines of code in turn from top to bottom) and in the following order: 
-    1: DataPreprocessing.ipynb
-    2: EDA.ipynb
-    3: BuildingModel.ipynb. 
+
+    - 1: DataPreprocessing.ipynb
+    - 2: EDA.ipynb
+    - 3: BuildingModel.ipynb. 
 
 ### Insight our code files:
 
