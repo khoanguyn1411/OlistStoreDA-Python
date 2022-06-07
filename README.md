@@ -11,10 +11,10 @@ Member:
 | No. | Member                 | ID         | Role    | 
 | --- | ---------------------- |:----------:|:-------:|
 | 1   | Nguyen Hoang Anh Khoa  | K194111608 | Leader  | 
-| 2   | Nguyen Thi Ngoc Anh    | K194111606 | Member  | 
-| 3   | Nguyen Thanh Mong      | K194111519 | Member  | 
-| 4   | Truong Nhat Hoang      | K194111620 | Member  | 
-| 5   | Pham Thi Hong Nhung    | K194111613 | Member  | 
+| 2   | Nguyen Thi Ngoc Anh    | K194111519 | Member  | 
+| 3   | Nguyen Thanh Mong      | K194111613 | Member  | 
+| 4   | Truong Nhat Hoang      | K194111608 | Member  | 
+| 5   | Pham Thi Hong Nhung    | K194111620 | Member  | 
 
 ### Data used:
 
