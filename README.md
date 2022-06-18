@@ -104,7 +104,7 @@ df = pd.read_csv(raw_path + 'data_outlist_clean.csv', parse_dates = ['order_purc
 *How to import and run code:*
 In this file, we imported and used data_outlist_clean.csv file for analysis. The steps included to import and run code is similar to the previous file, which is EDA.ipynb.
 
-### [Link Google Drive Source Code](https://github.com/khoanguyn1411/OlistStoreDA-Python.git)
-### [Link GitHub Source Code (for better view of README.md)](https://drive.google.com/drive/folders/1YIj5807YJTV78pPRjq6H-YduXWdWaJmz?usp=sharing) 
+### [Link Google Drive Source Code](https://drive.google.com/drive/folders/1YIj5807YJTV78pPRjq6H-YduXWdWaJmz?usp=sharing)  
+### [Link GitHub Source Code (for better view of README.md)](https://github.com/khoanguyn1411/OlistStoreDA-Python.git)
 
 # THE END - THANK YOU FOR YOUR READING
